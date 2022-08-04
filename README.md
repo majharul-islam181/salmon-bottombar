@@ -18,3 +18,5 @@ dependencies:
 # ✌🤞🧐
 
 ![salmon](https://user-images.githubusercontent.com/86792533/182866291-9503515f-4aa9-468d-9c95-a3da630018b8.png)
+
+[https://pub.dev/packages/salomon_bottom_bar]
