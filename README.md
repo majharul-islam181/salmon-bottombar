@@ -1,16 +1,20 @@
-# salomonbottombar
+# Salomon bottom bar
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+```
+dependencies:
+  salomon_bottom_bar: ^3.3.1
+  
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![salmpnbottombar](https://user-images.githubusercontent.com/86792533/182866085-99baecf5-9554-4ac9-9db7-8a97fef52f35.png)
+
+
+# ✌🤞🧐
+
+![salmon](https://user-images.githubusercontent.com/86792533/182866291-9503515f-4aa9-468d-9c95-a3da630018b8.png)
